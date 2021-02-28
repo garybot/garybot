@@ -6,6 +6,9 @@ I'm a Software Developer with an educational background in Anthropology and Phil
 
 Python | JavaScript | HTML | CSS | React | Redux | Node | Express | SQL
 
+#### Check out my implementation of [Conway's Game of Life](https://life-automaton.herokuapp.com/)!
+
+
 <!--
 **garybot/garybot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
