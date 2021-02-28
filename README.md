@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a Software Developer with an educational background in Anthropology and Philosophy. I have solid object oriented design skills and a strong understanding of algorithms and data structures. Looking for a position where I can make meaningful contributions to a team and work on projects that impact lives.
+
+#### What I'm working with:
+
+Python | JavaScript | HTML | CSS | React | Redux | Node | Express | SQL
+
 <!--
 **garybot/garybot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
